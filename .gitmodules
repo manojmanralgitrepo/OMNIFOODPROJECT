@@ -1,0 +1,3 @@
+[submodule "omnifood"]
+	path = omnifood
+	url = https://github.com/manojmanralgitrepo/OMNIFOODPROJECT.git
